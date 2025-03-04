@@ -1,0 +1,30 @@
+h1,
+a {
+    color: rgb(96, 70, 158);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Labneh {
+    color: cornflowerblue;
+    font-family: monospace, sans-serif;
+}
+
+#Hummus {
+    color: firebrick;
+    font-family: cursive, sans-serif;
+}
+
+#Musabaha {
+    color: darkolivegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: rgba(220, 55, 168, 0.835);
+    background-color: rgb(57, 29, 75);
+}
+
+li,
+p {
+    color: steelblue;
+}
